@@ -2,7 +2,7 @@
   "name": "liberusoftware/real-estate-portals-reporting-livewire",
   "description": "Livewire 4 adapter for real-estate portal reports.",
   "type": "liberu-module",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "license": "MIT",
   "require": {
     "php": "^8.5",
